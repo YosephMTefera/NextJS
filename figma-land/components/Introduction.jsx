@@ -6,7 +6,7 @@ const Introduction = () => {
     <div className="w-[100%] min-h-[100vh] bg-[#222B32] max-[600px]:min-h-[50vh]">
       <Navbar />
       <div className="w-[100%] h-[100%]  flex justify-center items-center">
-        <div className=" w-[40%] h-[70%]  mx-auto mt-[100px] flex flex-col justify-center items-center max-[1700px]:w-[60%] max-[1100px]:w-[80%] max-[800px]:h-[100%]">
+        <div className=" w-[40%] min-h-[70%]  mx-auto mt-[100px] flex flex-col justify-center items-center max-[1700px]:w-[60%] max-[1100px]:w-[80%] max-[800px]:h-[100%]">
           <div className="flex flex-col text-center gap-[20px] max-[800px]:justify-center">
             <span className="text-[70px] text-white font-extrabold max-[800px]:text-[50px] max-[600px]:text-[30px]">
               The best products start with figma
